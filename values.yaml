@@ -1,0 +1,6 @@
+pod:
+  image: tutum/hello-world:latest
+service:
+  port: 80
+lable: hello-world
+replicas: 1
